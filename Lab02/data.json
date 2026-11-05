@@ -1,0 +1,62 @@
+{
+    "Counter-Strike 2": {
+        "peak_24h": 1360532,
+        "peak_all_time": 1862531
+    },
+    "Dota 2": {
+        "peak_24h": 969885,
+        "peak_all_time": 1295114
+    },
+    "PUBG: BATTLEGROUNDS": {
+        "peak_24h": 809673,
+        "peak_all_time": 3257248
+    },
+    "WARDOGS": {
+        "peak_24h": 304002,
+        "peak_all_time": 428666
+    },
+    "AION 2": {
+        "peak_24h": 301962,
+        "peak_all_time": 397905
+    },
+    "Deadlock": {
+        "peak_24h": 255488,
+        "peak_all_time": 303347
+    },
+    "Apex Legends": {
+        "peak_24h": 231338,
+        "peak_all_time": 624473
+    },
+    "ARC Raiders": {
+        "peak_24h": 156983,
+        "peak_all_time": 481966
+    },
+    "Bongo Cat": {
+        "peak_24h": 155214,
+        "peak_all_time": 194508
+    },
+    "Valheim": {
+        "peak_24h": 146497,
+        "peak_all_time": 502387
+    },
+    "Rust": {
+        "peak_24h": 132897,
+        "peak_all_time": 262284
+    },
+    "Delta Force": {
+        "peak_24h": 126305,
+        "peak_all_time": 247028
+    },
+    "Palworld": {
+        "peak_24h": 68261,
+        "peak_all_time": 2101867
+    },
+    "Elden Ring": {
+        "peak_24h": 38541,
+        "peak_all_time": 953426
+    },
+    "Baldur's Gate 3": {
+        "peak_24h": 60321,
+        "peak_all_time": 875343
+    }
+}
