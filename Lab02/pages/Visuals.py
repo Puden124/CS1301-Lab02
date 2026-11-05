@@ -18,7 +18,7 @@ st.title("Data Visualizations 📈")
 # PART 1: GRAPHS FROM data.json
 # --- YOUR CODE GOES HERE ---
 
-with open("data.json", "r") as file:
+with open("Lab02/data.json", "r") as file:
     data = json.load(file)
 
 df = pd.DataFrame.from_dict(data, orient="index")
@@ -66,7 +66,7 @@ st.pyplot(fig2)
 
 st.header("Gaming Survey Results")
 
-csv_df = pd.read_csv("data.csv")
+csv_df = pd.read_csv("Lab02/data.csv")
 
 if not csv_df.empty:
     csv_df["Value"] = pd.to_numeric(csv_df["Value"], errors="coerce")
